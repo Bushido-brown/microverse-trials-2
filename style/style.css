@@ -1,0 +1,12 @@
+body {
+  height: 100%;
+}
+
+.responsive {
+  width: 50%;
+  height: 50%;
+}
+
+#img-div {
+  text-align: center;
+}
